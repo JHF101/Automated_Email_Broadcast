@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/badge/Streamlit-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
-This program aims to send a custom greeting to many individuals.
+This program aims to send a custom greeting to multiple individuals.
 
 
 ## Setup
